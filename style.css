@@ -1,0 +1,42 @@
+.gallery{
+    display: flex;
+    gap: 15px;
+    width: 80%;
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #8d8080;
+    padding: 50px;
+    color: white;
+}
+a{
+    color: white;
+    margin-right: 10px;
+}
+header>a{
+    color: white;
+}
+
+.about{
+    height: 250px;
+    width: 100vw;
+
+    background-color: #6238c2;
+}
+
+.gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+.gallery > div{
+    background-color: #222222;
+    color: #b8b1b1;
+   
+    padding: 20px;
+    border-radius: 10px;
+}
