@@ -19,7 +19,10 @@ a{
 header>a{
     color: white;
 }
-
+.gallery>div>img{
+    height: 400px;
+    width:  400px;
+}
 .about{
     height: 250px;
     width: 100vw;
